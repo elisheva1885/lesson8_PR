@@ -4,6 +4,9 @@ const func1 = () => {
 }
 
 
-const func2 = () => {
-    console.log("func2 on branch main")
+
+
+
+const func3 = () => {
+    console.log("func3 on branch1")
 }
